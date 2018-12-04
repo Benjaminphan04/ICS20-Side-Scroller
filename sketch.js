@@ -1,7 +1,7 @@
 var person;
 
 function setup() {
-  createCanvas(640, 360);
+  createCanvas(1920, 1080);
 	person = new Person();
 }
 
